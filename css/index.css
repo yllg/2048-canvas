@@ -1,3 +1,9 @@
-
 body {touch-action:none;}
 #game {margin:0 auto;}
+
+
+
+h1   {color:red;}
+p span {color:#fff;}
+button {width: 200px; margin-top: 25px; padding:7px 0; font-size: 25px; 
+	 border-radius: 10px; color:#fff; background-color:rgb(247, 93, 59);} 
